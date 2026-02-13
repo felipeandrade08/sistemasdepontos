@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sistema de Pontos Pro",
+  "description": "Solução completa de ponto com PWA, GPS, Geofencing e Alertas de Horas Extras.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
